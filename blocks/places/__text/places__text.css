@@ -1,0 +1,19 @@
+.places__text {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 24px;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+}
+  
+.places__text:nth-child(3) {
+  margin-bottom: 0px;
+}
+  
+@media screen and (max-width: 768px) {
+  .places__text {
+    font-size: 16px;
+    line-height: 26px;
+  }
+}

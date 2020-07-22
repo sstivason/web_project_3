@@ -1,0 +1,23 @@
+.header__language {
+  display: inline;
+  text-decoration: none;
+  color: #fff;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  margin-left: 18px;
+  opacity: 1;
+  transition: opacity .8s ease-in;
+}
+
+.header__language:hover {
+  opacity: .5;
+}
+
+@media screen and (max-width: 320px) {
+  .header__language {
+    font-size: 18px;
+    line-height: 24px;
+  }
+}

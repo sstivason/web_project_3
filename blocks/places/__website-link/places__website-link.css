@@ -1,0 +1,15 @@
+.places__website-link {
+  margin: 12px 0;
+  padding: 0;
+  text-decoration: underline;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: white;
+  opacity: 1;
+  transition: opacity .8s ease-in-out;
+}
+  
+.places__website-link:hover {
+  opacity: .5;
+}

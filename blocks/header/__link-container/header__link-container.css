@@ -1,0 +1,5 @@
+.header__link-container {
+  display: inline-flex;
+  list-style: none;
+  margin: 0;
+}

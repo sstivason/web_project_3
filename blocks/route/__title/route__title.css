@@ -1,0 +1,23 @@
+.route__title {
+  padding: 0;
+  margin: 0 auto;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+  text-align: center;
+  z-index: 1;
+}
+  
+@media screen and (max-width: 600px) {
+  .route__title {
+    font-size: 45px;
+    line-height: 48px;
+  }
+}
+  
+@media screen and (max-width: 320px) {
+  .route__title {
+    font-size: 32px;
+    line-height: 35px;
+  }
+}  
