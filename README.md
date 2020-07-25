@@ -8,7 +8,7 @@ An epic bicycle journey from Portland, ME to Portland, OR.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Project Status
-Responsive
+Responsive with plans to incorporate place links with the associated images in mobile viewports.
 
 ### Demo Site
 [Github Publication](https://sstivason.github.io/web_project_3/)
