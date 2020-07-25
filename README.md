@@ -13,5 +13,5 @@ Responsive design with plans to implement the following enhancements:
  * Enable zoom for Gallery images
  * Place cards in 320 viewport to serve as functional links
 
-### Demo Site
+## Demo Site
 [Github Publication](https://sstivason.github.io/web_project_3/)
