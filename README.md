@@ -9,3 +9,6 @@ An epic bicycle journey from Portland, ME to Portland, OR.
 
 ## Project Status
 Responsive
+
+### Demo Site
+[Github Publication](https://sstivason.github.io/web_project_3/)
