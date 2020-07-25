@@ -3,8 +3,8 @@
 @import url("./__links/footer__links.css");
 
 .footer {
-  margin: 92px 148px 24px 148px;
-  max-width: 984px;
+  margin: 92px auto 24px auto;
+  max-width: 1184px;
   display: flex;
   justify-content: space-between;
 }

@@ -5,8 +5,7 @@
   display: grid;
   row-gap: 48px;
   column-gap: 40px;
-  justify-content: grid;
-  grid-template-columns: repeat(auto-fit, minmax(1fr, 1fr));
+  grid-template-columns: repeat(2, minmax(440px, 1fr));
   grid-template-rows: auto;
 }
   

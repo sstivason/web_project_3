@@ -6,10 +6,4 @@
   font-size: 18px;
   line-height: 22px;
   color: white;
-  opacity: 1;
-  transition: opacity .8s ease-in-out;
-}
-  
-.places__website-link:hover {
-  opacity: .5;
 }

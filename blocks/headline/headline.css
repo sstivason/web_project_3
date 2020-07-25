@@ -2,25 +2,24 @@
 @import url("./__image/headline__image.css");
 @import url("./__subtitle/headline__subtitle.css");
 @import url("./__title/headline__title.css");
+@import url("./__figure/headline__figure.css");
 
 .headline {
   align-self: center;
   max-width: 984px;
   padding: 0;
-  margin: 0 148px 0 148px;
+  margin: 58px 148px 0;
   margin-top: 58px;
 }
 
 @media screen and (max-width: 1024px) {
   .headline {
-    margin-left: 48px;
-    margin-right: 48px;
+    margin: 58px 48px 0;
   }
 }
 
 @media screen and (max-width: 768px) {
   .headline {
-    width: 100%;
     margin: 50px 0;
   }
 }

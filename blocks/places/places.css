@@ -6,8 +6,6 @@
 @import url("./__website-tag/places__website-tag.css");
 @import url("./__description/places__description.css");
 @import url("./__text/places__text.css");
-@import url("./__text/_size/places__text_size_small.css");
-
 
 .places {
 max-width: 984px;

@@ -3,7 +3,6 @@
   margin: 0 auto;
   padding: 0;
   display: grid;
-  justify-content: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   grid-template-rows: auto;
   grid-gap: 16px 16px;

@@ -9,7 +9,7 @@
   }
   
 .footer__link:hover {
-  opacity: .5;
+  opacity: .8;
 }
   
 @media screen and (max-width: 320px) {
@@ -17,5 +17,6 @@
     display: inline-block;
     width: 298px;
     margin-top: 32px;
+    font-size: 24px;
   }
 }
