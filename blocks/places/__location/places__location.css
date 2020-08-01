@@ -5,23 +5,28 @@
   display: grid;
   row-gap: 48px;
   column-gap: 40px;
-  grid-template-columns: repeat(2, minmax(440px, 1fr));
+  grid-template-columns: minmax(460px, 1fr);
   grid-template-rows: auto;
 }
-  
+
+/* Tablet Portrait to Landscape */
 @media screen and (max-width: 1024px) {
   .places__location {
     column-gap: 32px;
     row-gap: 48px;
+    grid-template-columns: minmax(440px, 1fr);
   }
 }
-  
+
+/* Large Smartphone to Tablet Portrait */
 @media screen and (max-width: 768px) {
   .places__location {
     column-gap: 28px;
+    grid-template-columns: minmax(340px, 1fr);
   }
 }
-  
+
+/* Small to Medium-sized Smartphone */
 @media screen and (max-width: 600px) {
   .places__location {
     grid-template-columns: 1fr;
@@ -30,7 +35,8 @@
     row-gap: 32px;
   }
 }
-  
+
+/* Extra Small Mobile Devices */
 @media screen and (max-width: 320px) {
   .places__location {
     margin: 48px auto;

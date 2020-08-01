@@ -12,12 +12,14 @@
   margin-top: 58px;
 }
 
+/* Tablet Portrait to Landscape */
 @media screen and (max-width: 1024px) {
   .headline {
     margin: 58px 48px 0;
   }
 }
 
+/* Mobile to Tablet Portrait */
 @media screen and (max-width: 768px) {
   .headline {
     margin: 50px 0;

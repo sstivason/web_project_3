@@ -12,6 +12,7 @@ max-width: 984px;
 margin: 92px 148px 0 148px;
 }
 
+/* Tablet Portrait to Landscape */
 @media screen and (max-width: 1024px) {
   .places {
     margin-right: 48px;
@@ -19,12 +20,14 @@ margin: 92px 148px 0 148px;
   }
 }
 
+/* Large Smartphone to Tablet Portrait */
 @media screen and (max-width: 768px) {
   .places {
     margin: 88px 24px 0 24px;
   }
 }
 
+/* Extra Small to Medium-sized Smartphone */
 @media screen and (max-width: 600px) {
   .places {
     width: 100%;

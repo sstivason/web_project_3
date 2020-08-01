@@ -9,13 +9,15 @@
   line-height: 58px;
   color: white;
 }  
-  
+
+/* Large Smartphone to Tablet Portrait */
 @media screen and (max-width: 768px) {
   .intro__title {
   max-width: 720px;
   }
 }
-  
+
+/* Extra Small to Medium-sized Smartphone */
 @media screen and (max-width: 600px) {
   .intro__title {
     font-size: 32px;

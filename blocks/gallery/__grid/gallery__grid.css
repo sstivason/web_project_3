@@ -8,12 +8,14 @@
   grid-gap: 16px 16px;
 }
   
+/* Tablet Portrait to Landscape */
 @media screen and (max-width: 1024px) {
   .gallery__grid {
     grid-gap: 14px 14px;
   }
 }
   
+/* Extra Small Mobile Devices to Tablet Portrait */
 @media screen and (max-width: 768px) {
   .gallery__grid {
     grid-gap: 16px 16px;

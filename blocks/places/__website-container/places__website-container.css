@@ -5,7 +5,8 @@
   margin: 0;
   grid-area: 1 / 2 / 2 / 3;
 }
-  
+
+/* Extra Small to Medium-sized Smartphone */
 @media screen and (max-width: 600px) {
   .places__website-container {
     display: none;

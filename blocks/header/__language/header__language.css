@@ -11,10 +11,12 @@
   transition: opacity .8s ease-in;
 }
 
+/* Dynamic Pseudo-Class Selector for Mouse-Over Effect */  
 .header__language:hover {
   opacity: .5;
 }
 
+/* Mobile Devices */
 @media screen and (max-width: 320px) {
   .header__language {
     font-size: 18px;

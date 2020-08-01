@@ -1,15 +1,15 @@
 .footer__links {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    display: flex;
-    flex-wrap: wrap;
-    }
-    
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Extra Small Mobile Devices */    
 @media screen and (max-width: 320px) {
-  .footer {
-    display: flex;
+  .footer__links {
     flex-direction: column;
     flex-wrap: nowrap;
   }
-} 
+}

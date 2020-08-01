@@ -9,6 +9,7 @@
   z-index: 1;
 }
   
+/* Large Smartphone to Tablet Portrait */
 @media screen and (max-width: 768px) {
   .route__text {
     font-size: 18px;
@@ -16,6 +17,7 @@
   }
 }
   
+/* Small to Medium-sized Smartphone */
 @media screen and (max-width: 600px) {
   .route__text {
     font-size: 16px;
@@ -23,6 +25,7 @@
   }
 }
   
+/* Extra Small Mobile Devices */
 @media screen and (max-width: 320px) {
   .route__text {
     max-width: 288px;

@@ -10,18 +10,21 @@
   margin-top: 92px;
 }
 
+/* Tablet Portrait to Landscape */
 @media screen and (max-width: 768px) {
   .route {
     margin-top: 96px;
   }
 }
 
+/* Large Smartphone to Tablet Portrait */
 @media screen and (max-width: 768px) {
   .route {
     margin-top: 88px;
   }
 }
 
+/* Small to Medium-sized Smartphone */
 @media screen and (max-width: 600px) {
   .route {
     min-width: 100%;
@@ -29,6 +32,7 @@
   }
 }
 
+/* Extra Small Mobile Devices */
 @media screen and (max-width: 320px) {
   .route {
     max-width: 320px;

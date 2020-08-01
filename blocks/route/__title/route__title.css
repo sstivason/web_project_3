@@ -7,14 +7,16 @@
   text-align: center;
   z-index: 1;
 }
-  
+
+/* Small to Medium-sized Smartphone */
 @media screen and (max-width: 600px) {
   .route__title {
     font-size: 45px;
     line-height: 48px;
   }
 }
-  
+
+/* Extra Small Mobile Devices */
 @media screen and (max-width: 320px) {
   .route__title {
     font-size: 32px;

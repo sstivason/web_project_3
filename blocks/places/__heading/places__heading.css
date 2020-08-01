@@ -9,13 +9,15 @@
   max-width: 460px;
 }
   
+/* Large Smartphone to Tablet Portrait */
 @media screen and (max-width: 768px) {
   .places__heading {
     font-size: 42px;
     line-height: 46px;
   }
 }
-  
+
+/* Small to Medium-sized Smartphone */
 @media screen and (max-width: 600px) {
   .places__heading {
     font-size: 38px;
@@ -24,7 +26,8 @@
     margin-right: 16px;
   }
 }
-  
+
+/* Extra Small Mobile Devices */
 @media screen and (max-width: 320px) {
   .places__heading {
     font-size: 32px;

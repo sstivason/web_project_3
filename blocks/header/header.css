@@ -12,6 +12,7 @@
   align-items: flex-end;
 }
 
+/* Tablet Portrait to Landscape */
 @media screen and (max-width: 1024px) {
   .header {
     margin-left: 48px;
@@ -19,6 +20,7 @@
   }
 }
 
+/* Large Smartphone to Tablet Portrait */
 @media screen and (max-width: 768px) {
   .header {
     margin-left: 24px;
@@ -26,6 +28,7 @@
   }
 }
 
+/* Small to Medium-sized Smartphone */
 @media screen and (max-width: 600px) {
   .header {
     margin-left: 16px;
@@ -33,6 +36,7 @@
   }
 }
 
+/* Extra Small Mobile Devices */
 @media screen and (max-width: 320px) {
   .header {
     margin-top: 20px;
