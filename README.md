@@ -17,7 +17,7 @@ This project was created using:
  * CSS3 (Flexbox, Grid, BEM)
  
 ## Project Status
-Responsive design with plans to implement the following enhancements:
+Responsive design completed to closely match the mock-up.  Future plans include implementation of following enhancements:
  * Functional translation to Spanish via "Es" link
  * Enable zoom for Gallery images
  * Place cards in mobile viewports to serve as functional links 
