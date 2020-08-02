@@ -35,8 +35,8 @@
   }
 }
 
-/* Extra Small Mobile Devices */
-@media screen and (max-width: 320px) {
+/* Mobile Devices */
+@media screen and (max-width: 414px) {
   .headline__title {
     font-size: 40px;
     line-height: 44px;

@@ -3,7 +3,7 @@
 }
 
 /* Mobile Devices */
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 414px) {
   .header__logo {
     max-width: 156px;
   }

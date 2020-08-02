@@ -36,8 +36,8 @@
   }
 }
 
-/* Extra Small Mobile Devices */
-@media screen and (max-width: 320px) {
+/* Mobile Devices */
+@media screen and (max-width: 414px) {
   .header {
     margin-top: 20px;
   }

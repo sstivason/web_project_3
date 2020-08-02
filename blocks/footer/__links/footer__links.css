@@ -6,8 +6,8 @@
   flex-wrap: wrap;
 }
 
-/* Extra Small Mobile Devices */    
-@media screen and (max-width: 320px) {
+/* Mobile Devices */    
+@media screen and (max-width: 480px) {
   .footer__links {
     flex-direction: column;
     flex-wrap: nowrap;

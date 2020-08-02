@@ -20,7 +20,7 @@
 }
   
 /* Extra Small Mobile Devices */
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 414px) {
   .headline__subtitle {
     font-size: 16px;
     line-height: 20px;
